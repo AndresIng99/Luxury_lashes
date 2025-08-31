@@ -93,12 +93,6 @@ if (isset($_SESSION['success_message'])) {
                 </small>
             </div>
             
-            <!-- Información de usuario de prueba (solo para desarrollo) -->
-            <div class="alert alert-info mt-3" style="font-size: 12px;">
-                <strong>Usuario de prueba:</strong><br>
-                Cédula: 12345678<br>
-                Contraseña: admin123
-            </div>
         </form>
     </div>
 
